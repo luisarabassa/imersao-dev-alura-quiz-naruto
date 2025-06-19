@@ -6,7 +6,6 @@ Este projeto é um **quiz interativo** inspirado no universo de **Naruto**, dese
 
 - 8 perguntas baseadas nos acontecimentos do Exame Chunin
 - Feedback imediato ao final com base na pontuação
-- Resultado personalizado: Genin, Chunin, Jounin ou retorno à Academia Ninja 😅
 - Layout visual imersivo com imagens temáticas e cores vibrantes
 
 ## 🎯 Tecnologias utilizadas
